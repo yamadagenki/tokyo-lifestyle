@@ -2,13 +2,19 @@
 markdown: redcarpet
 highlighter: pygments # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
-baseurl: "/x-market" # the subpath of your site, e.g. /blog
 
 # Jekyll Defaults
 title: Little Big Blue
 email: your-email@domain.com
-description: ooo
+description: A
+baseurl: "/tokyo-lifestyle" # the subpath of your site, e.g. /blog
 
+# Where can people find your site?
+url: "https://yamadagenki.github.io/tokyo-lifestyle"
+# When developing, set this ^ equal to whatever localhost you're using
+
+# Socail Media links
+# Use these to link users to your organization's social media sites
 twitter:
 facebook:
 google:
