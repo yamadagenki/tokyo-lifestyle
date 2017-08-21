@@ -1,5 +1,4 @@
 # Default, Defaults
-markdown: redcarpet
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 # Jekyll Defaults
