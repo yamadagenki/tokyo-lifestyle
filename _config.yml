@@ -2,7 +2,7 @@
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 # Jekyll Defaults
-title: Little Big Blue
+title: 东京生活方式
 email: your-email@domain.com
 description: A
 baseurl: "/tokyo-lifestyle" # the subpath of your site, e.g. /blog
