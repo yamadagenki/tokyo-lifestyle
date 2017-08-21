@@ -14,7 +14,7 @@ var messages = {
  */
 gulp.task('jekyll-build', function (done) {
     browserSync.notify(messages.jekyllBuild);
-    return cp.spawn('jekyll', ['build'], {stdio: 'inherit', siteurl: 'http://localhost:4000'})
+  return cp.spawn('jekyll', ['build', '--config=_config_development.yml'], {stdio: 'inherit'})
         .on('close', done);
 });
 
@@ -85,4 +85,4 @@ gulp.task('watch', function () {
  * compile the jekyll site, launch BrowserSync & watch files.
  */
 gulp.task('default', ['browser-sync', 'watch']);
-gulp.task('build', ['sass', 'jekyll-build-prod']);
+gulp.task('build', ['jade', 'sass', 'jekyll-build-prod']);

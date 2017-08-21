@@ -1,0 +1,18 @@
+# Default, Defaults
+exclude: ["node_modules", "gulpfile.js", "package.json"]
+
+# Jekyll Defaults
+title: 东京生活方式
+email: your-email@domain.com
+description: A
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Where can people find your site?
+url: "http://localhost:3000"
+# When developing, set this ^ equal to whatever localhost you're using
+
+# Socail Media links
+# Use these to link users to your organization's social media sites
+twitter:
+facebook:
+google:
