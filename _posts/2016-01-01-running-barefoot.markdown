@@ -2,19 +2,10 @@
 layout: post
 title:  "The Benefits of Running Barefoot"
 date:   2014-04-20 09:11:03
-categories: reviews
+categories: 
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: /assets/img/thumbnails/barefoot.jpg
 caption: If you have a caption for an image, you should write it here
-
-# Information for the author block
-author: John Doe
-authorTitle: Product Reviews and Recipes
-authorBio: From product reviews to five-star restaurant critiques, John Doe's curiosity lends itself well to nearly every topic.
-# Link up the author's social media
-authorFacebook:
-authorTwitter:
-authorGoogle:
 ---
 
 A Jekyll theme for blogging. With the ability to sort posts by category and list various authors in an authors block, this theme is perfect for collaborative projects.
