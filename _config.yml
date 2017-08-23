@@ -3,7 +3,7 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 # Jekyll Defaults
 title: 东京生活方式
-email: your-email@domain.com
+email: to.be.mr.all.rounder@gmail.com
 description: A
 baseurl: "/tokyo-lifestyle" # the subpath of your site, e.g. /blog
 
