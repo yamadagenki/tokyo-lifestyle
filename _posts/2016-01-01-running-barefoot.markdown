@@ -3,7 +3,7 @@ layout: post
 title:  "东京的住家"
 date:   2017-08-23
 categories: houses
-description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
+description: 日本的住房基本上比国内的房子小，所以设计得很合理。
 thumbnail: /assets/img/thumbnails/houses/20170823.jpg
 caption: 日本的住房基本上比国内的房子小，所以设计得很合理。
 ---
