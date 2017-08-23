@@ -4,26 +4,17 @@ title:  "东京的住家"
 date:   2017-08-23
 categories: houses
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
-thumbnail: /assets/img/thumbnails/barefoot.jpg
-caption: If you have a caption for an image, you should write it here
+thumbnail: /assets/img/thumbnails/houses/20170823.jpg
+caption: 日本的住房基本上比国内的房子小，所以设计得很合理。
 ---
 
-A Jekyll theme for blogging. With the ability to sort posts by category and list various authors in an authors block, this theme is perfect for collaborative projects.
+来到日本的东京，首要的一项事情需要很好的解决，就是选择适合自己的住房，来尽快适应东京生活方式。
 
-# How to use it
-1. Star & fork the [repo][repo]
-2. Rename the repo and clone the master branch to your local directory
-3. Customize the `_config.yml` file to represent you
-4. Download [Gulp][Gulp]
+日本的住房，设计得很合理。在大都市里，一般考虑即实用、又舒适的，首选一室一厅。即日语称1DK或是1K。它们的建筑面积，大约在25～35平方米左右。
 
-* * *
-##Author blocks
-Author blocks are populated based on each post in the `_posts` folder. The author **name**, **title**, **bio**, and **social media** links are all defined in the YAML at the top of ever post page.
+当然，如果为了更节约开支，在早期的过渡时期，可以选择一室一卫，即一个房间再配卫生间及厨房。日语称1R（one room)。日本的房子，既可以买，也可以租。
 
-If you're only going to feature posts from one author, or default to that author primarily, you can define these values in the `_config.yml` file, just like you do for url, and sitename. This will require you change the tags in the `_layouts/posts.html` file.
+日本的房子，既可以买，也可以租。以我们生活在日本多年的经验，是先租，待工作等稳定后再买。
 
-##Category Pages
-To add a page that lists all posts in a given category, copy one of the existing pages in the `categories` folder and change the `for post in site.categories.advice` loop to the category you want.
 
-[repo]: http://github.com/ninapetrop/Jekyll-Testing-Site
-[Gulp]: https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md
+这样，既方便生活，又可以作为投资。祝大家在日本生活顺利愉快！
