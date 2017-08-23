@@ -2,7 +2,7 @@
 layout: post
 title:  "The Benefits of Running Barefoot"
 date:   2014-04-20 09:11:03
-categories: 
+categories: houses
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: /assets/img/thumbnails/barefoot.jpg
 caption: If you have a caption for an image, you should write it here
