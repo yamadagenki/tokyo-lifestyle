@@ -32,7 +32,7 @@ title: 介绍日本东京的生活方式
     <!-- Liquid loop that populates posts in a given category -->
     {% for post in site.categories.housing limit:2 %}
       <div class="col-xs-12 col-sm-6 article-cards">
-        <a href="{{ post.url | prepend: site.baseurl }}"><img src='{{ post.thumbnail }}' class="thumbnails"></a>
+        <a href="{{ post.url | prepend: site.baseurl }}"><img src='{{ post.thumbnail | prepend: site.baseurl }}' class="thumbnails"></a>
         <a class='post-link' href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         <br>
         <span class="meta date">{{ post.date | date_to_string }}</span>
@@ -68,7 +68,7 @@ title: 介绍日本东京的生活方式
     </div>
     {% for post in site.categories.recipes limit:2 %}
       <div class="col-xs-12 col-sm-6 article-cards">
-        <a href="{{ post.url | prepend: site.baseurl }}"><img src='{{ post.thumbnail }}' class="thumbnails"></a>
+        <a href="{{ post.url | prepend: site.baseurl }}"><img src='{{ post.thumbnail | prepend: site.baseurl }}' class="thumbnails"></a>
         <a class='post-link' href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         <br>
         <span class="meta date">{{ post.date | date_to_string }}</span>
