@@ -12,7 +12,7 @@ caption: 日本的住房基本上比国内的房子小，所以设计得很合�
 
 日本的住房，设计得很合理。在大都市里，一般考虑即实用、又舒适的，首选一室一厅。即日语称1DK或是1K。它们的建筑面积，大约在25～35平方米左右。
 
-<div class="ta-c m20">
+<div class="ta-c m40">
 <a href="https://px.a8.net/svt/ejp?a8mat=2TPDB4+5IUTLM+3TUS+5Z6WX" target="_blank" rel="nofollow">
 <img border="0" width="320" height="50" alt="" src="https://www29.a8.net/svt/bgt?aid=170824864334&wid=002&eno=01&mid=s00000017866001004000&mc=1"></a>
 <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=2TPDB4+5IUTLM+3TUS+5Z6WX" alt="">
@@ -22,7 +22,7 @@ caption: 日本的住房基本上比国内的房子小，所以设计得很合�
 
 日本的房子，既可以买，也可以租。以我们生活在日本多年的经验，是先租，待工作等稳定后再买。
 
-<div class="ta-c m20">
+<div class="mt20 mb20">
 <a href="https://px.a8.net/svt/ejp?a8mat=2TPDB4+5Q00UY+384+355N8I" target="_blank" rel="nofollow">価格.comの賃貸物件"一括検索"サイト「スマイティ」</a>
 <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=2TPDB4+5Q00UY+384+355N8I" alt="">
 </div>
