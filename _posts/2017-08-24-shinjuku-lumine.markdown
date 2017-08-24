@@ -15,9 +15,9 @@ caption: 薪水就心甘情愿的贡献给了各个百货商场、个性小店
 可以说没有买不到只有想不到！
 
 <div class="m30 ta-c">
-<a href="https://px.a8.net/svt/ejp?a8mat=2TPDB8+2PN4RE+2LF2+BXYE9" target="_blank" rel="nofollow">
-<img border="0" width="300" height="250" alt="" src="https://www22.a8.net/svt/bgt?aid=170824868164&wid=002&eno=01&mid=s00000012107002006000&mc=1"></a>
-<img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=2TPDB8+2PN4RE+2LF2+BXYE9" alt="">
+  <a href="https://px.a8.net/svt/ejp?a8mat=2TPDB8+2PN4RE+2LF2+BXYE9" target="_blank" rel="nofollow">
+    <img border="0" width="300" height="250" alt="" src="https://www22.a8.net/svt/bgt?aid=170824868164&wid=002&eno=01&mid=s00000012107002006000&mc=1"></a>
+    <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=2TPDB8+2PN4RE+2LF2+BXYE9" alt="">
 </div>
 
 小编会在今后陆续更新介绍东京的生活方式，购物娱乐等。
@@ -27,3 +27,9 @@ caption: 薪水就心甘情愿的贡献给了各个百货商场、个性小店
 小编比较爱逛新宿的，因为集中就有三家针对不同消费水平和风格的店。
 1店和2店适合白领阶层，和新宿店连着的LUMINE EST则出售女款休闲装为主，基本上杂志常见的女装品牌都能在这里找到，也有男装、童装和化妆品专区。
 百货店内有许多甜品店和简餐店，逛累了可以随时补充体力。
+
+<div class="m30 ta-c">
+  <a href="https://px.a8.net/svt/ejp?a8mat=2TPDB8+4FK7OA+3U5M+5Z6WX" target="_blank" rel="nofollow">
+    <img border="0" width="468" height="60" alt="" src="https://www22.a8.net/svt/bgt?aid=170824868268&wid=002&eno=01&mid=s00000017905001004000&mc=1"></a>
+    <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=2TPDB8+4FK7OA+3U5M+5Z6WX" alt="">
+</div>
