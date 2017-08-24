@@ -4,7 +4,7 @@ title:  "东京新宿LUMINE"
 date:   2017-08-24
 categories: fashion
 description: 薪水就心甘情愿的贡献给了各个百货商场、个性小店
-thumbnail: /assets/img/thumbnails/fasion/20170824.jpg
+thumbnail: /assets/img/thumbnails/fashion/20170824.jpg
 caption: 薪水就心甘情愿的贡献给了各个百货商场、个性小店
 ---
 
