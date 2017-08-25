@@ -17,5 +17,5 @@ instagram: https://www.instagram.com/explore/tags/%E4%B8%9C%E4%BA%AC%E7%94%9F%E6
 facebook:
 google:
 
-gems:
+plugins:
   - jekyll-sitemap
