@@ -3,7 +3,7 @@ layout: post
 title:  "东京零食"
 date:   2017-08-26
 categories: food
-description: 东京是日本最大的城市,而且汇聚了世界各地的美食
+description: 这是我这“吃货”观察总结出来的。
 thumbnail: /assets/img/thumbnails/food/20170826-weets.jpg
 ---
 女性爱吃零食！<br/>
