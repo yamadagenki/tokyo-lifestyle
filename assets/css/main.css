@@ -457,7 +457,7 @@ body {
   margin: 0;
   width: 100%;
   height: 100%;
-  margin-bottom: 100px; }
+  margin-bottom: 60px; }
   .navRow nav {
     border: none;
     border-top: solid 5px #0097A7;
@@ -575,8 +575,13 @@ body {
 #recent-articles-container {
   padding: 0; }
   #recent-articles-container .recent-articles {
-    height: 230px;
-    padding: 0 auto auto auto; }
+    height: 200px; }
+  @media (min-width: 786px) {
+    #recent-articles-container .recent-articles {
+      height: 220px; } }
+  @media (min-width: 1200px) {
+    #recent-articles-container .recent-articles {
+      height: 250px; } }
 
 .post-link {
   font-size: 14px;

@@ -1,8 +1,13 @@
 #recent-articles-container
   padding: 0
   .recent-articles
-    height: 230px
-    padding: 0 auto auto auto
+    height: 200px
+  @media (min-width: 786px)
+    .recent-articles
+      height: 220px
+  @media (min-width: 1200px)
+    .recent-articles
+      height: 250px
 .post-link
   font:
     size: 14px
