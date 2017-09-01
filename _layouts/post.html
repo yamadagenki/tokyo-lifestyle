@@ -14,4 +14,41 @@ layout: default
 
   {{ content }}
 
+  <hr class="mt60">
+
+  {% for category in page.categories %}
+  <h2 class='category-title-page mt40'>{{category|capitalize}} Columns</h2>
+  {% if category == 'housing' %}
+  {% for post in site.categories.housing limit:8%}
+  {% if page.title == post.title %}
+  {% continue %}
+  {% endif %}
+  {% include category.html %}
+  {% endfor %}
+  {% endif %}
+  {% if category == 'food' %}
+  {% for post in site.categories.food limit:8%}
+  {% if page.title == post.title %}
+  {% continue %}
+  {% endif %}
+  {% include category.html %}
+  {% endfor %}
+  {% endif %}
+  {% if category == 'fashion' %}
+  {% for post in site.categories.fashion limit:8%}
+  {% if page.title == post.title %}
+  {% continue %}
+  {% endif %}
+  {% include category.html %}
+  {% endfor %}
+  {% endif %}
+  {% if category == 'place' %}
+  {% for post in site.categories.place limit:8%}
+  {% if page.title == post.title %}
+  {% continue %}
+  {% endif %}
+  {% include category.html %}
+  {% endfor %}
+  {% endif %}
+  {% endfor %}
 </div>
