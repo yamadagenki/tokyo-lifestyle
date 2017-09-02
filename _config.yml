@@ -5,10 +5,11 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 title: 东京生活方式
 email: to.be.mr.all.rounder@gmail.com
 description: A
-baseurl: "/tokyo-lifestyle" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # Where can people find your site?
 url: "https://yamadagenki.github.io/tokyo-lifestyle"
+base_path: "/tokyo-lifestyle"
 sass:
   style: compressed
 
