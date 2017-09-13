@@ -4,7 +4,7 @@ title:  "日本购物指南之-唇膏篇-"
 date:   2017-09-13
 categories: fashion
 description: 今天小编来介绍今年在东京流行的唇膏。
-thumbnail: /assets/img/thumbnails/fashion/20170913.jpg
+thumbnail: /assets/img/thumbnails/fashion/201709131.jpg
 caption: 今天小编来介绍今年在东京流行的唇膏。
 ---
 
